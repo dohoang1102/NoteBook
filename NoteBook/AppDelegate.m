@@ -11,6 +11,7 @@
 @implementation AppDelegate
 
 @synthesize window = _window;
+@synthesize label = _label;
 
 - (void)applicationWillResignActive:(UIApplication *)application
 {
