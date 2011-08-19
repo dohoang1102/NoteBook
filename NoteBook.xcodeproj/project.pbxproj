@@ -16,7 +16,6 @@
 		84C00D1513FE16BB008BE403 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84C00D1413FE16BB008BE403 /* RootViewController.m */; };
 		84C00D1813FE16BB008BE403 /* DataViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84C00D1713FE16BB008BE403 /* DataViewController.m */; };
 		84C00D1B13FE16BC008BE403 /* ModelController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84C00D1A13FE16BC008BE403 /* ModelController.m */; };
-		84C00D2B13FE1D49008BE403 /* MyNoteBookView.m in Sources */ = {isa = PBXBuildFile; fileRef = 84C00D2A13FE1D49008BE403 /* MyNoteBookView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,8 +35,6 @@
 		84C00D1713FE16BB008BE403 /* DataViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DataViewController.m; sourceTree = "<group>"; };
 		84C00D1913FE16BC008BE403 /* ModelController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ModelController.h; sourceTree = "<group>"; };
 		84C00D1A13FE16BC008BE403 /* ModelController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ModelController.m; sourceTree = "<group>"; };
-		84C00D2913FE1D49008BE403 /* MyNoteBookView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyNoteBookView.h; sourceTree = "<group>"; };
-		84C00D2A13FE1D49008BE403 /* MyNoteBookView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyNoteBookView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,8 +79,6 @@
 		84C00D0413FE16BB008BE403 /* NoteBook */ = {
 			isa = PBXGroup;
 			children = (
-				84C00D2913FE1D49008BE403 /* MyNoteBookView.h */,
-				84C00D2A13FE1D49008BE403 /* MyNoteBookView.m */,
 				84C00D0D13FE16BB008BE403 /* AppDelegate.h */,
 				84C00D0E13FE16BB008BE403 /* AppDelegate.m */,
 				84C00D1013FE16BB008BE403 /* MainStoryboard.storyboard */,
@@ -176,7 +171,6 @@
 				84C00D1513FE16BB008BE403 /* RootViewController.m in Sources */,
 				84C00D1813FE16BB008BE403 /* DataViewController.m in Sources */,
 				84C00D1B13FE16BC008BE403 /* ModelController.m in Sources */,
-				84C00D2B13FE1D49008BE403 /* MyNoteBookView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
